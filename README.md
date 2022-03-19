@@ -39,11 +39,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-GIF1: General features
+
+    GIF1: General features
+    
 ![General features](https://i.imgur.com/Yt156d5.gif)
-GIF2: Three-strike feature 
+
+    GIF2: Three-strike feature
+    
 ![3 strikes](https://i.imgur.com/AP0FPIE.gif)
-GIF3: Speed up the clue playback on each turn
+
+    GIF3: Speed it up
+    
 ![Speed up](https://i.imgur.com/Doaf0rt.gif)
 
 ## Reflection Questions
