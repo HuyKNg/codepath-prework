@@ -54,11 +54,15 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.w3schools.com/js/js_output.asp
-https://www.w3schools.com/js/js_arrays.asp
-https://www.geeksforgeeks.org/difference-between-an-id-and-class-in-html/
-https://stackoverflow.com/questions/30035932/how-do-i-use-this-javascript-variable-in-html
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+    https://www.w3schools.com/js/js_output.asp
+
+    https://www.w3schools.com/js/js_arrays.asp
+
+    https://www.geeksforgeeks.org/difference-between-an-id-and-class-in-html/
+
+    https://stackoverflow.com/questions/30035932/how-do-i-use-this-javascript-variable-in-html
+
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 For me, the most challenging part of the project is the starting phase. Even though I knew some basic syntax in HTML, CSS, and JavaScript, I had not done any project in those languages before. Therefore, I felt overwhelmed by the project as everything was new to me. Then, I decided to take a small step at a time, and it turned out to be not so hard. In addition, the pre-work instruction breaks big features of the project into small steps which really make it easier for me to follow. For example, the idea of making the computer to play clues for the user to repeat was a little tricky. I did not want all the clues to play at the same time, I also needed to keep track of what turn it was to play the proper clue sequence. With the help of the instruction, it became straightforward. To avoid the clues running together, I should use the built-in setTimeout function to delay the calling of the function that plays the next clue. So, the computer will wait for the current clue to finish plus some pause time, and then play the next clue. And to keep track of the turn, I could simply create a variable named progress which acts as an index into the pattern array, and every time the user correctly guesses the sequence of that turn, the progress increases.
