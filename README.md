@@ -22,7 +22,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial (change color of the heading, add a strike counter)
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial (add a strike counter)
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [x] Playback speeds up on each turn
@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x] Add a strike counter and a warning when guess was wrong
 
 ## Video Walkthrough (GIF)
 
