@@ -46,8 +46,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
     GIF2: Three-strike feature
     
-![3 strikes](https://i.imgur.com/AP0FPIE.gif)
-
+![3 strikes](https://user-images.githubusercontent.com/92295299/160226020-14c52c89-004a-4fbc-88cf-267098ba8d1b.gif)
+    
     GIF3: Speed it up
     
 ![Speed up](https://i.imgur.com/Doaf0rt.gif)
